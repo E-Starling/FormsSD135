@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+header{
+    background-color: white;
+}
+
+
+.headerbutton{
+    color: white;
+    display: flex;
+}
+
+img{
+ border-radius:80%;
+}
+.image{
+    display: flex;
+    gap:1em;
+}
+    
+.form{
+    width:250px;
+    height:300px;
+}
+
+.entry{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:3em;
+}
