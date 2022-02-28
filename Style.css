@@ -3,6 +3,9 @@ body{
 }
 header{
     background-color: white;
+    display: flex;
+    justify-content: right;
+    gap:2em;
 }
 
 
@@ -21,7 +24,9 @@ img{
     
 .form{
     width:250px;
-    height:300px;
+    height:200px;
+    background-color: white;
+    
 }
 
 .entry{
