@@ -5,23 +5,17 @@ header{
     background-color: white;
     display: flex;
     justify-content: right;
-    gap:2em;
-}
-
-
-.headerbutton{
-    color: white;
-    display: flex;
+    gap:.5em;
 }
 
 img{
  border-radius:80%;
 }
+
 .image{
     display: flex;
     gap:1em;
 }
-    
 .form{
     width:250px;
     height:200px;
