@@ -8,10 +8,13 @@ header{
     gap:.5em;
 }
 
+h2{
+    padding: 10px;
+}
+
 img{
  border-radius:80%;
 }
-
 .image{
     display: flex;
     gap:1em;
@@ -19,15 +22,10 @@ img{
 .form{
     width:250px;
     height:200px;
-    background-color: white;
-    
-    
-    
+    background-color: white; 
 }
-
-.entry{
-    display: flex;
+form{
     flex-direction: column;
-    justify-content: center;
-    gap:3em;
+    
+    gap:2em;
 }
